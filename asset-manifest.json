@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/textcraft-app/static/css/main.e6c13ad2.css",
-    "main.js": "/textcraft-app/static/js/main.0f768336.js",
+    "main.js": "/textcraft-app/static/js/main.ca4d1f47.js",
+    "static/media/textcraft.png": "/textcraft-app/static/media/textcraft.5e59bbe151a828192346.png",
     "index.html": "/textcraft-app/index.html",
     "main.e6c13ad2.css.map": "/textcraft-app/static/css/main.e6c13ad2.css.map",
-    "main.0f768336.js.map": "/textcraft-app/static/js/main.0f768336.js.map"
+    "main.ca4d1f47.js.map": "/textcraft-app/static/js/main.ca4d1f47.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0f768336.js"
+    "static/js/main.ca4d1f47.js"
   ]
 }
